@@ -226,9 +226,9 @@ mindmap
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
 <div align="center">
 
 **✨ "Building the future of autonomous systems, one commit at a time." ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&
+ 
+</div>
