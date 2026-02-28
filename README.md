@@ -109,12 +109,6 @@ const kike = {
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erscoder&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ---
 
 ## 🔥 Featured Projects
