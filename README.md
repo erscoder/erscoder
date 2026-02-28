@@ -141,13 +141,14 @@ Real-time trading signals & copy-trading for perpetual futures. Live on Hyperliq
 <tr>
 <td width="50%">
 
-### 🎯 [CrewBoard](https://github.com/erscoder/crewboard-landing)
-**AI Agent Task Management**
+### 🎯 [CrewBoard](https://github.com/erscoder/crewboard)
+**AI Agent Task Management** ⭐ Open Source
 
-Kanban board for coordinating multiple autonomous AI agents on complex projects. Think JIRA meets AGI.
+Kanban board where humans create tasks and AI agents pick them up, execute them, and report back. JIRA meets autonomous AI.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![AI](https://img.shields.io/badge/-AI-blue?style=flat-square)
+![OSS](https://img.shields.io/badge/-Open_Source-green?style=flat-square)
 
 </td>
 <td width="50%">
