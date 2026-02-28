@@ -55,6 +55,7 @@ const kike = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### AI & ML
@@ -71,6 +72,7 @@ const kike = {
 
 ### Crypto & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </div>
@@ -164,46 +166,6 @@ Defense skills against prompt injection, secret leakage, and unsafe automation f
 </table>
 
 ---
-
-## 💡 What I'm Working On
-
-```mermaid
-mindmap
-  root((Kike's Focus))
-    AI Agents
-      Autonomous coding agents
-      Multi-agent orchestration
-      Tool-using AI systems
-    Trading Bots
-      ML-powered signals
-      Polymarket scalpers
-      Hyperliquid perps
-    Rust + ML
-      Porting scipy/transformers
-      Inference optimization
-      Memory efficiency
-    Security
-      Prompt injection defense
-      Agent sandboxing
-      Pentesting AI systems
-```
-
----
-
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Ship **rustml-scipy** (100+ functions ported)
-- [ ] Reach **$10K/month** with automated trading bots
-- [ ] Build **multi-agent system** for autonomous SaaS development
-- [ ] Contribute to **3 major open-source** Rust projects
-- [ ] Speak at **Rust + ML conference**
 
 ---
 
