@@ -129,13 +129,12 @@ Porting Python ML libraries to Rust for 10x faster inference and 80% less RAM us
 </td>
 <td width="50%">
 
-### 📈 [HyperSignals](https://github.com/erscoder/hypersignals-landing)
-**Crypto Trading Platform**
+### 📈 [rtk-compress](https://github.com/erscoder/rtk-compress)
+**OpenClaw skill**
 
-Real-time trading signals & copy-trading for perpetual futures. Live on Hyperliquid with automated execution.
+Compress LLM tool outputs with rtk — save 60-90% tokens on git/test/cat commands
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Crypto](https://img.shields.io/badge/-Crypto-gold?style=flat-square)
+![OSS](https://img.shields.io/badge/-Open_Source-green?style=flat-square)
 
 </td>
 </tr>
