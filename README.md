@@ -2,6 +2,7 @@
 
 # 👨‍💻 Kike // erscoder
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/kikerub?style=social)](https://twitter.com/kikerub)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erscoder41567?style=social)](https://twitter.com/erscoder41567)
 [![GitHub followers](https://img.shields.io/github/followers/erscoder?label=Follow&style=social)](https://github.com/erscoder)
 ![Profile Views](https://komarev.com/ghpvc/?username=erscoder&color=blue&style=flat-square)
