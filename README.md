@@ -27,9 +27,10 @@ Building autonomous systems that trade 24/7 and ship code while I sleep.
 const kike = {
   location: "Spain 🇪🇸",
   languages: ["TypeScript", "Rust", "Python", "JavaScript"],
-  focus: ["AI Agents", "Algorithmic Trading", "DeFi", "Security"],
-  currentlyLearning: "Advanced Rust + ML inference optimization",
-  funFact: "My bots trade more than I sleep"
+  focus: ["Distributed AI Inference", "Synapseia Network", "AI Agents", "Algorithmic Trading"],
+  currentlyBuilding: "synapseia-node + synapseia-node-ui (Tauri 2 + NestJS)",
+  currentlyLearning: "Peer-to-peer work order routing + verifiable LLM inference",
+  funFact: "My nodes earn while I sleep"
 };
 ```
 
