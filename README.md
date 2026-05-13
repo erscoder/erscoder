@@ -17,7 +17,8 @@
 
 Building autonomous systems that trade 24/7 and ship code while I sleep.
 
-- 🦀 Working on **[rustml](https://github.com/erscoder/rustml)** - Porting Python ML libs to Rust
+- 🧠 Building **[Synapseia](https://github.com/erscoder/synapseia-node)** — distributed AI inference network with stake-tier capability matching
+- 🖥️ Shipping **[synapseia-node-ui](https://github.com/erscoder/synapseia-node-ui)** — desktop client (Tauri 2 + Next.js) for running nodes
 - 🤖 Creating **AI agent teams** for automated software development
 - 📈 Running **algorithmic trading bots** on Polymarket & Hyperliquid
 - 🔐 Security research for **autonomous AI agents**
@@ -115,54 +116,6 @@ const kike = {
 ## 🔥 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🦀 [rustml](https://github.com/erscoder/rustml)
-**Rust + Machine Learning**
-
-Porting Python ML libraries to Rust for 10x faster inference and 80% less RAM usage. Because Python had its rise, now Rust will have its ATH.
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![ML](https://img.shields.io/badge/-ML-orange?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 📈 [rtk-compress](https://github.com/erscoder/rtk-compress)
-**OpenClaw skill**
-
-Compress LLM tool outputs with rtk — save 60-90% tokens on git/test/cat commands
-
-![OSS](https://img.shields.io/badge/-Open_Source-green?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 [CrewBoard](https://github.com/erscoder/crewboard-oss)
-**AI Agent Task Management** ⭐ Open Source
-
-Kanban board where humans create tasks and AI agents pick them up, execute them, and report back. JIRA meets autonomous AI.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![AI](https://img.shields.io/badge/-AI-blue?style=flat-square)
-![OSS](https://img.shields.io/badge/-Open_Source-green?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🛡️ [ClawdBot Security](https://github.com/erscoder/clawdbot-defense-skills)
-**AI Agent Security**
-
-Defense skills against prompt injection, secret leakage, and unsafe automation for OpenClaw agents.
-
-![Security](https://img.shields.io/badge/-Security-red?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
