@@ -28,7 +28,7 @@ const kike = {
   location: "Spain 🇪🇸",
   languages: ["TypeScript", "Rust", "Python", "JavaScript"],
   focus: ["Distributed AI Inference", "Synapseia Network", "AI Agents", "Algorithmic Trading"],
-  currentlyBuilding: "synapseia-node + synapseia-node-ui (Tauri 2 + NestJS)",
+  currentlyBuilding: "synapseia-network",
   currentlyLearning: "Peer-to-peer work order routing + verifiable LLM inference",
   funFact: "My nodes earn while I sleep"
 };
