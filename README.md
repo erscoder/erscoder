@@ -163,6 +163,32 @@ Defense skills against prompt injection, secret leakage, and unsafe automation f
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🧠 [synapseia-node](https://github.com/erscoder/synapseia-node)
+**Distributed AI Inference Node**
+
+Node runtime for the Synapseia network — stake-tier capability matching, peer-to-peer work order routing, and verifiable LLM inference across heterogeneous hardware.
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+
+</td>
+<td width="50%">
+
+### 🖥️ [synapseia-node-ui](https://github.com/erscoder/synapseia-node-ui)
+**Desktop App for Synapseia Nodes**
+
+Cross-platform desktop client to launch, monitor, and manage a Synapseia node. Tauri 2 shell + Next.js UI for real-time telemetry, wallet signing, and capability config.
+
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+
+</td>
+</tr>
 </table>
 
 ---
